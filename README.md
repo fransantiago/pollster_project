@@ -1,4 +1,4 @@
-# TODO LIST APP
+# POLLSTER APP
 
 "Pollster App" project. This application was made for learning purposes. Essentially, it's a getting started with Django Framework. See ["Built With"](#built-with) section for more details.
 
